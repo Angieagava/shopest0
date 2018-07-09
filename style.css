@@ -12,7 +12,6 @@ html, body{
     line-height: 1.8rem;
     color: #111;
 }
-.row {overflow-x: hidden;}
 
 ul.navbar-nav {
 	flex-direction: inherit;
@@ -29,7 +28,7 @@ h2{
 	box-shadow: 0 2px 2px #989898;
 }
 .navbar img {
-	width: 300px;
+	width: 200px;
 }
 
 .bg{
